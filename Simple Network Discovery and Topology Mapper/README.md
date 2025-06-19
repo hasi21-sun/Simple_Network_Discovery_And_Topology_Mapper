@@ -121,8 +121,8 @@ http://127.0.0.1:5001
 
 ## 🧑‍💻 Authors
 
--P. Udaykiran - https://github.com/Udaykiranpotteppagari
--Team - S. Hasika - https://github.com/hasi21-sun , R. Sidhartha Chowdary - https://github.com/Sidhartha143 , N. Chaithanya Krishna - https://github.com/krishna-chaithanya113  
+- P. Udaykiran - https://github.com/Udaykiranpotteppagari
+- Team - S. Hasika - https://github.com/hasi21-sun , R. Sidhartha Chowdary - https://github.com/Sidhartha143 , N. Chaithanya Krishna - https://github.com/krishna-chaithanya113  
 - 💡 Guided by: Mrs. Sahana D S,
                 Assistant Professor,
                 Department of CSE,
